@@ -1,0 +1,40 @@
+div{
+    border: 3px solid rgb(101, 43, 226);
+    width: 420px;
+    height: 360;
+    border-radius: 7px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(149, 149, 158);
+    padding: 3%;
+}
+
+div h2{
+    color: rgb(81, 82, 93);
+}
+
+h2:hover{
+    cursor: pointer;
+    color: rgb(10, 10, 11);
+}
+
+div p{
+    color: rgb(49, 49, 58);
+}
+
+p:hover{
+    color: rgb(63, 72, 195);
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
+
+img:hover{
+    transform: translatey(4px);
+   
+	
+}
