@@ -34,7 +34,10 @@ a:hover{
 }
 
 img:hover{
-    transform: translatey(4px);
-   
+    transform: translatey(4px);  
 	
+}
+
+body{
+    background-color:rgb(61, 62, 62) ;
 }
